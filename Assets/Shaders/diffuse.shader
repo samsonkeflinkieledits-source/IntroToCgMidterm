@@ -15,7 +15,7 @@ Shader "Unlit/diffuse"
 
     {
 
-        Tags { "RenderPipeline" = "UniversalRenderPipeline" "RenderType" = "Opaque" }
+        Tags { "RenderPipeline" = "UniversalPipeline" "RenderType" = "Opaque" }
 
         Pass
 
